@@ -4,6 +4,8 @@
 A task tracker app where the user can use a Kanban board type to-do list to track the progress of tasks.
 
 
+![Taskinator](./assets/images/screengrab_taskinator.png)
+
 ## Tables of Contents
 * [Deployed App](#deployed-app)
 * [Questions](#questions)
